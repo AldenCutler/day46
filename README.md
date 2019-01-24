@@ -1,2 +1,2 @@
 # day46
-MIdterm repository of Winter trimester student work.
+Midterm repository of Winter trimester student work.
